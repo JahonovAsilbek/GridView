@@ -1,0 +1,292 @@
+<resources>
+    <string name="app_name">L1 Grid View</string>
+    <string name="cupcake" >Android Cupcake (version 1.5) is the third version of Android developed by Google, a major platform release deployable to Android-powered handsets starting in April 2009, that is no longer supported. The release included new features for users and developers, as well as changes in the Android framework API. For developers, the Android 1.5 platform was available as a downloadable component for the Android SDK.
+
+    Android 1.5 included new features such as an on-screen keyboard and Bluetooth support as well as improvements to existing features such as UI changes for application management and several Google apps.</string>
+
+    <string name="donut">Android Donut, a.k.a. Android 1.6, is the fourth version of the open source Android mobile operating system developed by Google that is no longer supported. Among the more prominent features introduced with this update were added support for CDMA smartphones, additional screen sizes, a battery usage indicator, and a text-to-speech engine.[1][2]
+
+After the public release of Donut—its official dessert-themed code name, the convention employed by Google to designate major Android versions—carriers were quick to follow with its roll out to customers in the form of an over-the-air (OTA) update for compatible smartphones</string>
+
+    <string name="eclair">Android Eclair is a codename of the Android mobile operating system developed by Google and the fifth operating system for Android, and for the no-longer supported versions 2.0 to 2.1. Unveiled on October 26, 2009, Android 2.1 builds upon the significant changes made in Android 1.6 "Donut".
+        The default home screen of Eclair displays a persistent Google Search bar across the top of the screen. The camera app was also redesigned with numerous new camera features, including flash support, digital zoom, scene mode, white balance, color effect and macro focus. The photo gallery app also contains basic photo editing tools. This version also included the addition of live wallpapers, allowing the animation of home-screen background images to show movement. Speech-to-text was first introduced, replacing the comma key
+        Android Eclair inherits platform additions from the Donut release, including the ability to search all saved SMS and MMS messages, improved Google Maps 3.1.2, and Exchange support for the Email app.[4][5] The operating system also provides improved typing speed on virtual keyboard, along with new accessibility, calendar, and virtual private network APIs. For internet browsing, Android Eclair also adds support for HTML5, refreshed browser UI with bookmark thumbnails and double-tap zoom
+    </string>
+
+    <string name="froyo">Android Froyo is the sixth version of Android and is a codename of the Android mobile operating system developed by Google, spanning versions between 2.2 and 2.2.3.[1] Those versions are no longer supported. It was unveiled on May 20, 2010, during the Google I/O 2010 conference.
+
+One of the most prominent changes in the Froyo release was USB tethering and Wi-Fi hotspot functionality.[2] Other changes include support for the Android Cloud to Device Messaging (C2DM) service, enabling push notifications, additional application speed improvements, implemented through JIT compilation[3] and displayed within applications as top-of-the-screen banners</string>
+    
+    <string name="Gingerbread">Android 2.3 Gingerbread is the seventh version of Android, a codename of the Android mobile operating system developed by Google and released in December 2010, for versions that are no longer supported. The Gingerbread release introduced support for near field communication (NFC)—used in mobile payment solutions—and Session Initiation Protocol (SIP)—used in VoIP internet telephones.[1]
+
+Gingerbreads user interface was refined in many ways, making it easier to master, faster to use, and more power-efficient. A simplified color scheme with a black background gave vividness and contrast to the notification bar, menus, and other user interface components. Improvements in menus and settings resulted in easier navigation and system control.
+
+The Nexus S smartphone, released in December 2010, was the first phone from the Google Nexus line that ran Gingerbread, and also the first one from the line with built-in NFC functionality.[2]
+
+As of April 2020, statistics issued by Google indicate that 0.2% of all Android devices accessing Google Play run Gingerbread.</string>
+    
+    <string name="kitkat">Android KitKat is the codename for the eleventh version of the Android mobile operating system, representing release version 4.4. Unveiled on September 3, 2013, KitKat focused primarily on optimizing the operating system for improved performance on entry-level devices with limited resources.
+
+As of October 2020, 1.47% of Android devices run KitKat
+    History
+Android 4.4 "KitKat" was officially announced on September 3, 2013. The release was internally codenamed "Key lime pie"; John Lagerling, director of Android global partnerships, and his team, decided to drop the name, arguing that "very few people actually know the taste of a key lime pie". Aiming for a codename that was "fun and unexpected", his team pursued the possibility of naming the release "KitKat" instead. Lagerling phoned a representative of Nestlé, who owns the Kit Kat brand and produces the confectionary (outside the United States, where it is produced by The Hershey Company under license), and quickly reached a preliminary deal for a promotional collaboration between the two companies, later finalized in a meeting at Mobile World Congress in February 2013. The partnership was not revealed publicly, or even to other Google employees and Android developers (who otherwise continued to internally refer to the OS as "KLP"), until its official announcement in September.[2][3]
+
+As part of the promotional efforts, Kit Kat bars in the shape of the Android robot logo were produced, while Hershey ran a contest in the United States with prizes of Nexus 7 tablets and Google Play Store credit.[3][4]
+
+The Nexus 5, developed by LG Electronics, was unveiled on September 30, 2013, as the launch device for KitKat.[5]
+
+Up to October 2017, Android 4.4 was still supported with security patches by Google for the source code
+    Development
+Continuing on from the focus on improving visual performance and responsiveness on Android 4.1 "Jelly Bean", the main objective of Android 4.4 was to optimize the platform for better performance on low-end devices, without compromising its overall capabilities and functionality. The initiative was codenamed "Project Svelte", which Android head of engineering Dave Burke joked was a weight loss plan after Jelly Beans "Project Butter" added "weight" to the OS.[9] To simulate lower-spec devices, Android developers used Nexus 4 devices underclocked to run at a reduced CPU speed with only a single core active, 512 MB memory, and at 960×540 display resolution—specifications meant to represent a common low-end Android device.[9]
+
+A development tool known as ProcStats was developed in order to analyze the memory usage of apps over time, especially those that run background services. This data was used to optimize and decouple Google apps and services found to be inefficient, thus helping to reduce the overall memory usage of Android. Additionally, 4.4 was designed to be more aggressive in managing memory, helping to guard against apps wasting too much memory.
+    User experience
+The overall interface of KitKat further downplays the "Holo" interface appearance introduced on 4.0, replacing remaining instances of blue accenting with greys and white (such as the status bar icons), and getting rid of the Wi-Fi upstream and downstream traffic indicators (triangles pointing up and down), though they can still be seen in the quick control center menu.[11]
+
+The Wi-Fi icon colour when only a connection to an access point with no Internet access has been established has changed from grey to orange.[12]
+
+The appearance may deviate in custom vendor distributions such as TouchWiz.
+
+Apps may trigger a translucent status and navigation bar appearance, or trigger a full screen mode ("Immersive mode") to hide them entirely. The launcher also received a refreshed appearance, with the implementation of the translucent navigation bars, and the replacement of the black backdrop in the application drawer with a translucent backdrop.[13][14] Additionally, action overflow menu buttons in apps are always visible, even on devices with the deprecated "Menu" navigation key.[15] In the Settings menu, users can now specify a default Home (launcher) and text messaging app.[16]
+
+On stock devices, the Messaging and Movie Studio apps were removed; the former was replaced by Google Hangouts, which supported SMS. The AOSP Gallery app was also deprecated in favor of Google+ Photos.
+    Platform
+A new runtime environment known as the Android Runtime (ART), intended to replace the Dalvik virtual machine, was introduced as a technology preview in KitKat.[17] ART is a cross-platform runtime which supports the x86, ARM, and MIPS architectures in both 32-bit and 64-bit environments. Unlike Dalvik, which uses just-in-time compilation (JIT), ART compiles apps upon installation, which are then run exclusively from the compiled version from then on. This technique removes the processing overhead associated with the JIT process, improving system performance.[18]
+
+Devices with 512 MB of RAM or less report as "low RAM" devices. Using an API, apps may detect low RAM devices and modify their functionality accordingly. KitKat also supports zram.[10][14] WebView components were updated to utilize a version of the Google Chrome rendering engine.[19] A new Storage Access Framework API allows apps to retrieve files in a consistent manner; as part of the framework, a new system file picker (branded as "Documents") allows users to access files from various sources (including those exposed by apps, such as online storage services).[20]
+
+A public API was introduced for creating and managing text messaging clients.[21] Sensor batching, step detection and counter APIs were also added.[14] KitKat supports host card emulation for near-field communications, which allows apps to emulate a smart card for activities such as mobile payments.
+    Memory card writing disabled
+Writing access to MicroSD memory cards for non-system (user-installed) software has been disabled[a] in this Android version, with no official option to manually grant selected applications write access.
+
+As a response, many users proceeded to root their devices to circumvent the restriction.
+
+The restriction was officially lifted in Android 5.0 Lollipop, albeit only for applications with an updated API level (≥20), restricting backwards compatibility.
+
+Writing access on the internal storage and USB On-The-Go was unaffected by the restriction yet.</string>
+
+    <string name="lollipop">Android[2] Lollipop (codenamed Android L during development) is the fifth major version of the Android mobile operating system developed by Google and the 12th version of Android, spanning versions between 5.0 and 5.1.1.[2] Unveiled on June 25, 2014 at the Google I/O 2014 conference, it became available through official over-the-air (OTA) updates on November 12, 2014, for select devices that run distributions of Android serviced by Google (such as Nexus and Google Play edition devices). Its source code was made available on November 3, 2014. It is the fifth major update and the twelfth version of Android.
+
+One of the most prominent changes in the Lollipop release is a redesigned user interface built around a design language known as Material Design, which was made to retain a paper-like feel to the interface. Other changes include improvements to the notifications, which can be accessed from the lockscreen and displayed within applications as top-of-the-screen banners. Google also made internal changes to the platform, with the Android Runtime (ART) officially replacing Dalvik for improved application performance, and with changes intended to improve and optimize battery usage.
+
+Android Lollipop was succeeded by Android Marshmallow, which was released in October 2015.[3]
+
+As of October 2020, 1.21% of Android devices run Lollipop 5.0 (API 21), and 3.98% run Lollipop 5.1 (API 22), with a combined 5.19% of usage share.[4] On tablets, Lollipop 5.1 (API 22) is however the single most popular version at 15.39%, followed closely by KitKat 4.4
+    Development
+The release was internally codenamed "Lemon Meringue Pie".[6] Android 5.0 was first unveiled under the codename "Android L" on June 25, 2014 during a keynote presentation at the Google I/O developers conference. Alongside Lollipop, the presentation focused on a number of new Android-oriented platforms and technologies, including Android TV, in-car platform Android Auto, wearable computing platform Android Wear, and health tracking platform Google Fit.[7]
+
+Part of the presentation was dedicated to a new cross-platform design language referred to as "material design". Expanding upon the "card" motifs first seen in Google Now, it is a design with increased use of grid-based layouts, responsive animations and transitions, padding, and depth effects such as lighting and shadows. Designer Matías Duarte explained that "unlike real paper, our digital material can expand and reform intelligently. Material has physical surfaces and edges. Seams and shadows provide meaning about what you can touch." The material design language would not only be used on Android, but across Googles suite of web software as well, providing a consistent experience across all platforms
+
+
+    Features
+See also: Android version history § Android 5.0 Lollipop (API 21)
+Android 5.0 introduces a refreshed notification system. Individual notifications are now displayed on cards to adhere to the material design language, and batches of notifications can be grouped by the app that produced them. Notifications are now displayed on the lock screen as cards, and "heads up" notifications can also be displayed as large banners across the top of the screen, along with their respective action buttons.[9][13] A do-not-disturb feature is also added for notifications. The recent apps menu was redesigned to use a three-dimensional stack of cards to represent open apps. Individual apps can also display multiple cards in the recents menu, such as for a web browsers open tabs.[9][11][14]
+
+Lollipop also contains major new platform features for developers, with over 5,000 new APIs added for use by applications.[15][16] For example, there is the possibility to save photos in a raw image format.[17] Additionally, the Dalvik virtual machine was officially replaced by Android Runtime (ART), which is a new runtime environment that was introduced as a technology preview in KitKat.[18] ART is a cross-platform runtime which supports the x86, ARM, and MIPS architectures in both 32-bit and 64-bit environments. Unlike Dalvik, which uses just-in-time compilation (JIT), ART compiles apps upon installation, which are then run exclusively from the compiled version from then on. This technique removes the processing overhead associated with the JIT process, improving system performance.[19]
+
+Lollipop also aimed to improve battery consumption through a series of optimizations known as "Project Volta". Among its changes are a new battery saver mode, job-scheduling APIs which can restrict certain tasks to only occur over Wi-Fi, and batching of tasks to reduce the overall amount of time that internal radios are active on. The new developer tool called "Battery Historian" can be used for tracking battery consumption by apps while in use.[7][9] The Android Extension Pack APIs also provide graphics functions such as new shaders, aiming to provide PC-level graphics for 3D games on Android devices.[12][20]
+
+A number of system-level, enterprise-oriented features were also introduced under the banner "Android for Work". The Samsung Knox security framework was initially planned to be used as a foundation for "Android for Work", but instead Google opted to use its own technology for segregating personal and work-oriented data on a device, along with the accompanying APIs for managing the environment.[21] With the "Smart Lock" feature, devices can also be configured so users do not have to perform device unlocking with a PIN or pattern when being on a trusted location, or in proximity of a designated Bluetooth device or NFC tag.[14][22][23] Lollipop was, additionally, to have device encryption enabled by default on all capable devices; however, due to performance issues, this change was held over to its successor, Android Marshmallow
+
+    Release
+A developer preview of Android L, build LPV79,[25] was released for the Nexus 5 and 2013 Nexus 7 on June 26, 2014 in the form of flashable images. Source code for GPL-licensed components of the developer preview was released via Android Open Source Project (AOSP) in July 2014.[26][27] A second developer preview build, LPV81C, was released on August 7, 2014, alongside the beta version of the Google Fit platform and SDK. As with the previous build, the second developer preview build is available only for the Nexus 5 and 2013 Nexus 7.[25][28]
+
+On October 15, 2014, Google officially announced that Android L would be known as Android 5.0 "Lollipop". The company also unveiled launch devices for Android 5.0‍—‌including Motorolas Nexus 6 and HTCs Nexus 9‍—‌for release on November 3, 2014.[29] Google stated that Nexus (including the Nexus 4, 5, 7, and 10) and Google Play edition devices would receive updates to Lollipop "in the coming weeks"; one more developer preview build for Nexus devices and the new SDK revision for application developers would be released on October 17, 2014. Update schedules for third-party Android devices may vary by manufacturer.[30][31]
+
+The full source code of Android 5.0 was pushed to AOSP on November 3, 2014, allowing developers and OEMs to begin producing their own builds of the operating system.[32] On December 2, 2014, factory images for Nexus smartphones and tablets were updated to the 5.0.1 version, which introduces a few bug fixes,[33] and a serious bug that affected Nexus 4 devices and prevented the audio from working during phone calls.[34] A device-specific Lollipop 5.0.2 (LRX22G) version was released for the first-generation Nexus 7 on December 19, 2014.[35]
+
+Android 5.1, an updated version of Lollipop, was unveiled in February 2015 as part of the Indonesian launch of Android One, and is preloaded on Android One devices sold in Indonesia and the Philippines. Google officially announced 5.1 by releasing updates for existing devices on March 9, 2015.[36][37]
+
+In 2015, Amazon.com forked Lollipop to produce Fire OS 5 "Bellini" for Amazons Fire HD-series devices.
+    </string>
+
+    <string name="marshmallow">Android Marshmallow (codenamed Android M during development) is the sixth major version of the Android operating system and the 13th version of Android. First released as a beta build on May 28, 2015, it was officially released on October 5, 2015, with the Nexus devices being the first to receive the update.
+
+Marshmallow primarily focuses on improving the overall user experience of its predecessor, Lollipop. It introduced a new permissions architecture, new APIs for contextual assistants (first used by a new feature "Now on Tap" to provide context-sensitive search results), a new power management system that reduces background activity when a device is not being physically handled, native support for fingerprint recognition and USB-C connectors, the ability to migrate data and applications to a microSD card, and other internal changes.
+
+As of October 2020, 7.01% of Android devices use[3] this unsupported (for security updates) Android 6.0 (API 23)
+
+    History
+The release was internally codenamed "Macadamia Nut Cookie".[5] The first developer preview build, codenamed Android "M", was unveiled and released at Google I/O on May 28, 2015, for the Nexus 5 and Nexus 6 smartphones, Nexus 9 tablet, and Nexus Player set-top box.[6][7][8] The second developer preview was released on July 9, 2015,[9][10] and the third and final preview was released on August 17, 2015, along with announcing that Android M would be titled Android "Marshmallow".[11][12]
+
+On September 29, 2015, Google unveiled launch devices for Marshmallow: the LG-produced Nexus 5X, the Huawei-produced Nexus 6P,[13][14][15] alongside Googles own Pixel C tablet.[16][17]
+
+Android 6.0 updates and factory images for Nexus 5, 6, 7 (2013), 9, and Player were released on October 5, 2015.[18] Older Nexus devices, including the Nexus 4, Nexus 7 (2012) and Nexus 10, did not receive an official update.[19] On October 14, 2015, LG announced that it planned to release Marshmallow for its flagship LG G4 smartphone in Poland the following week, marking the first third-party device to receive an update to Marshmallow.[20][21]
+
+Android 6.0.1, a software patch featuring security fixes, support for Unicode 8.0 emoji (although without supporting skin tone extensions for human emoji), and the return of the "until next alarm" feature in Do Not Disturb mode, was released on December 7, 2015.
+
+    User experience
+A new "Assist" API allows information from a currently opened app, including text and a screenshot of the current screen, to be sent to a designated "assistant" application for analysis and processing. This system is used by the Google Search app feature "Google Now on Tap", which allows users to perform searches within the context of information currently being displayed on-screen. While the "Home" button was used in Android 5 to show available apps, the "Home" button is used now (together with a voice command) to generate on-screen cards which display information, suggestions, and actions related to the content.[25] "Direct Share" allows Share menus to display recently used combinations of contacts and an associated app as direct targets.[25]
+
+"Adoptable storage" allows a newly-inserted SD card or other secondary storage media to be designated as either "portable" or "internal" storage. "Portable" maintains the default behavior of previous Android versions, treating the media as a secondary storage device for storage of user files, and the storage media can be removed or replaced without repercussions, but is subject to access restrictions by apps. When designated as "Internal" storage, the storage media is reformatted with an encrypted ext4 file system, and is "adopted" by the operating system as the primary storage partition. Existing data (including applications and "private" data folders) are migrated to the external storage, and normal operation of the device becomes dependent on the presence of the media. Apps and operating system functions will not function properly if the adopted storage device is removed. If the user loses access to the storage media, the adopted storage can be "forgotten", which makes the data permanently inaccessible.[25] Samsung and LG have, however, removed the ability to use an SD card as "internal" storage on their Galaxy S7 and G5 devices, with Samsung arguing that the feature could result in unexpected losses of data, and prevents users from being able to transfer data using the card.
+
+    Platform
+Android Marshmallow introduces a redesigned application permissions model; apps are no longer automatically granted all of their specified permissions at installation time. An opt-in system is now used, in which users are prompted to grant or deny individual permissions (such as the ability to access the camera or microphone) to an application when they are needed for the first time. Applications remember the grants, which can be revoked by the user at any time.[7][28][29] The new permissions model is used only by applications developed for Marshmallow using its software development kit (SDK), and older apps will continue to use the previous all-or-nothing approach. Permissions can still be revoked for those apps, though this might prevent them from working properly, and a warning is displayed to that effect.[30][31]
+
+Marshmallow introduces new power management schemes known as "Doze" and "App Standby"; when running on battery power, a device will enter a low-power state if it is inactive and not being physically handled. In this state, network connectivity and background processing are restricted, and only "high-priority" notifications are processed.[25] Additionally, network access by apps is deferred if the user has not recently interacted with the app.[32] Apps may request a permission to exempt themselves from these policies, but will be rejected from Google Play Store as a violation of its "Dangerous Products" policy if their core functionality is not "adversely affected" by them.[32][33]
+
+Android Marshmallow provides native support for fingerprint recognition on supported devices via a standard API, allowing third-party applications to implement fingerprint-based authentication. Fingerprints can be used for unlocking devices and authenticating Play Store and Google Pay purchases. Android Marshmallow supports USB-C, including the ability to instruct devices to charge another device over USB. Marshmallow also introduces "verified links" that can be configured to open directly in their specified application without further user prompts.[7][6] User data for apps targeting Marshmallow can be automatically backed up to Google Drive over Wi-Fi. Each application receives up to 25 MB of storage, which is separate from a users Google Drive storage allotment.[25]
+
+As of Marshmallow, the Android Compatibility Definition Document contains new security mandates for devices, dictating that those that are capable of accessing encrypted data without affecting performance must enable secure boot and device encryption by default.[34] These conditions comprise part of a specification that must be met in order to be certified for the operating system,[34] and be able to license Google Mobile Services software.[35] The requirement for mandatory device encryption was originally intended to take effect on Lollipop, but was delayed due to performance issues.
+
+    </string>
+
+    <string name="nougat">Android Nougat (codenamed Android N during development) is the seventh major version and 14th original version of the Android operating system. First released as an alpha test version on March 9, 2016, it was officially released on August 22, 2016, with Nexus devices being the first to receive the update. The LG V20 was the first smartphone released with Nougat.
+
+Nougat introduces notable changes to the operating system and its development platform, including the ability to display multiple apps on-screen at once in a split-screen view, support for inline replies to notifications, and an expanded Doze power-saving mode that restricts device functionality once the screen has been off for a period of time. Additionally, the platform switched to an OpenJDK-based Java environment and received support for the Vulkan graphics rendering API, and seamless system updates on supported devices.
+
+Nougat received positive reviews. The new app notification format received particular praise, while the multitasking interface was seen as a positive change, but reviewers experienced incompatible apps. Critics had mixed experiences with the Doze power-saving mode, but faster app installs and tweaks to the user interface were also reviewed positively.
+
+As of October 2020, 8.49% of Android devices run Nougat (no longer receiving security updates), with 5.01% on Android 7.0 (API 24) and 3.48% using Android 7.1 (API 25).
+
+    History
+The release was internally codenamed "New York Cheesecake".[4] On March 9, 2016, ahead of the Google I/O developer conference, Google released the first alpha version[5] of Android "N" as part of a new "Android Beta Program" intended for testing by developers and enthusiasts before official its release "this summer". The developer preview builds were compatible with only current Google Nexus devices; the 5X, 6P, 6, 9, Pixel C, and Nexus Player. The "Android Beta Program" that was introduced allowed testers to opt-in for over-the-air updates to new beta versions as they were released.[6]
+
+On April 13, 2016, Android N Beta Preview 2 was released.[7] Google further discussed Android "N" during the I/O keynote on May 18, 2016, and unveiled its new virtual reality platform, Daydream. Beta Preview 3, the first preview release deemed suitable for wider public beta testing, was released at this time. Google also announced that it would hold a contest to determine the official release name of the operating system.[8][9][10]
+
+Beta Preview 4 was released on June 15, 2016.[11][12] On June 30, 2016, Google announced that Ns release name would be "Nougat"; it was also confirmed that Nougat would be version 7.0 of Android.[13][14][15]
+
+The final Beta Preview, 5, was released on July 18, 2016.[16]
+
+Android 7.0 was officially released on August 22, 2016, with the Nexus 6, 5X, 6P, 9, Nexus Player, Pixel C, and General Mobile 4G as the first devices to receive the update.[17] Dave Burke, Androids Vice President of Engineering, stated in August 2016 that updates to Nougat would be released quarterly as maintenance releases focusing on "continued refinements and polish".[18] On September 6, 2016, LG announced the V20, the first smartphone to ship with Nougat pre-installed.[19] Google unveiled the first-party Pixel and Pixel XL smartphones during a hardware-focused event on October 4, 2016,[20] with the Pixel phones replacing the Nexus series.[21]
+
+Updates to existing devices vary by manufacturer and carrier, and driver support for the version by the manufacturer of a devices respective system-on-chip.[22] Major manufacturers, including HTC, Sony, and Motorola announced intents to update a range of their recent devices to Nougat.[23][24][25] Qualcomm stated that it would not support Nougat on devices using its Snapdragon 800 and 801 system-on-chips for undisclosed reasons. Although developer preview builds of Nougat were released for the device, Sony stated that it would not upgrade the Xperia Z3 (which uses the Snapdragon 801) to the final version due to "unforeseen platform limitations". It was reported that the Google Compatibility Test Suite (whose tests must be passed in order to receive official certification) specified that all devices running Nougat must support either Vulkan or OpenGL ES 3.1 graphics APIs—neither of which are supported by the devices Adreno 330 graphics core.[22][26] The Fairphone 2 is purported to be the only device with the Qualcomm Snapdragon 801 chipset to provide official support for Android 7.1.2, delivering on their effort towards increased longevity for a more sustainable device.[27]
+
+A post-release update known as Android 7.1 was pre-loaded onto Googles Pixel and Pixel XL smartphones released in October 2016; the new version added support for the Google Daydream VR platform, image keyboards, expanded emoji support (including male and female versions), support for actions to be displayed in menus on home screen app shortcuts, and other new features. A preview of 7.1 for existing Nexus devices was released via Android Beta Program later in the month,[28] and officially released as Android 7.1.1 on December 5, 2016.[29][30][31] As of 7.1.1, the Nexus 6 and Nexus 9 were considered end-of-life, and did not receive any further updates.[32]
+
+Android 7.1.2 was released in April 2017, providing various improvements and minor functionality improvements to Nexus and Pixel-branded devices.
+
+    User experience
+
+The updated notification shade on Nougat
+Nougat redesigns the notification shade, which now features a smaller row of icons for settings, replacing notification cards with a new "sheet" design, and allowing inline replies for notifications. Multiple notifications from a single app can also be "bundled",[6] and there is greater per-app control over notifications.[34]
+
+A split-screen display mode was introduced for phones, in which two apps can be snapped to occupy halves of the screen. An experimental multi-window mode is also available as a hidden feature, where multiple apps can appear simultaneously on the screen in overlapping windows.[35]
+
+The "Doze" power saving mechanism introduced in Android Marshmallow was expanded to include a state activated when the device is running and the screen has been off for a period of time but is not stationary. In this state, network activity is restricted, and apps are granted "maintenance windows" in which they can access the network and perform background tasks. As in Marshmallow, the full Doze state is activated if the device is stationary with its screen off for a period of time.[6][36] A new "Data Saver" mode restricts background mobile data usage, and can trigger internal functions in apps that are designed to reduce bandwidth usage, such as capping the quality of streaming media.
+
+    Platform
+In December 2015, Google announced that Android Nougat would switch its Java Runtime Environment from the defunct Apache Harmony to OpenJDK—the official open source implementation of the Java platform maintained by Oracle Corporation and the Java community.[38] The Android Runtime (ART) now incorporates a profile-guided compilation system, utilizing a JIT compiler and profiling alongside its current ahead-of-time compiler to further optimize apps for a devices hardware and other conditions in the background.[36]
+
+Nougat introduces a system for enabling "seamless", automatic system updates, based upon and sharing some code with the implementation of similar functionality on Chrome OS. The system uses a pair of SquashFS partitions; the Android system executes from an "online" partition, while updates are applied in the background to a redundant "offline" partition. On the next boot following the installation of an update, the redundant partition is designated as active to boot into the updated OS. This system removes the requirement for the device to reboot into the system recovery environment to apply the update (which prevents the device from being used until the update is complete), and also provides a backup of the existing OS in case of failure. Google chose to enable seamless updates only for devices shipped with Nougat (or later), rather than enabling earlier devices to support the feature after repartitioning.[39][40] Additionally, due to the ART changes on Nougat, apps no longer need to be re-compiled upon the first boot after a system update.[41]
+
+Developer Preview 2 added platform support for Vulkan, a new low-level 3D-rendering API alternative to OpenGL ES with higher graphics performance.[7][42][43]
+
+Nougat is the first version featuring Unicode 9.0 support, and comes with updated emoji, plus support for emoji skin tones.[7]
+
+Android 7.1 adds native API support for implementing image keyboards; multi-endpoint telephones;[clarification needed] shortcut menus and rounded icon assets for apps on launchers; and support for the Google Daydream virtual reality platform.[28][44] The Daydream environment includes a "sustained performance mode" to assist developers in optimizing apps to a devices thermal profile,[36] a new head tracking algorithm which combines the input from various device sensors, and integration of system notifications into the VR user interface.
+
+    Security
+In response to the Stagefright family of bugs disclosed and fixed in 2015, several changes were made to harden the media stack against future vulnerabilities. Runtime integer overflow detection was implemented, preventing the majority of Stagefright-like programming bugs from becoming vulnerabilities, in addition to helping fix and prevent such bugs. Androids monolithic MediaServer process was redesigned to better adhere to the principle of least privilege. MediaServer is now split into several separate processes, each running in its own unprivileged sandbox, and granted only the permissions required for its task. For example, only the AudioServer can access Bluetooth, and libstagefright now runs within the MediaCodecService sandbox, which is only granted GPU access. Further constraints were placed on the media stack through seccomp.[46]
+
+Various mechanisms were enabled to reduce the possibility of malicious code being injected and/or executed inside the Linux kernel, including dividing kernel memory into logical segments for code and data, with page access permissions of read-only and no-execute as appropriate. The kernel was also restricted from directly accessing user space memory, and stronger stack protection was enabled in the GCC compiler to reduce stack smashing. To limit exposure of the kernel to potentially malicious code, perf was disabled by default, ioctl commands were restricted by SELinux, and seccomp-bpf was enabled to grant processes the ability to restrict system calls.[47]
+
+On devices shipping with Android Nougat, the "Verified Boot" policy (introduced partially on KitKat, and displaying notifications on startup on Marshmallow) must be strictly enforced. If system files are corrupted or otherwise modified, the operating system will only allow operation in a limited-use mode or will refuse to boot at all.[48][49]
+
+Android Nougat supports an alternative drive encryption scheme known as "file-based encryption". As opposed to full disk encryption, it allows less-sensitive contents of the storage—such as operating system files—to be encrypted using only a hardware key rather than requiring credentials. Sensitive user data remains encrypted using credentials. File-based encryption removes the requirement for pre-boot authentication: instead, Android boots normally without additional intervention, but access to credential-protected data is restricted until the user unlocks the device for the first time ("Direct boot"). In the meantime, background services can access data they store in the device-encrypted context (such as alarms or messaging notifications, particularly after automatic reboots due to updates or crashes) to maintain limited functionality until the user unlocks the credential-encrypted storage.
+
+    Reception
+Dieter Bohn of The Verge praised the new multitasking interface in Android Nougat, calling it "long overdue" for Android tablets. Although he initially found the implementation "confusing", he wrote that it worked well once he understood it properly, though he noted that "some apps don’t fully support split screen, while others work fine but pop up a warning anyway". Bohn also liked the new way to reply to any message notification, stating "Android has long had an advantage in useful and consistent notifications" versus iOS, and added "now that quick replies are standard on it I dont see that lead diminishing". He also noted "tweaks" throughout the OS as welcome changes, including quick toggles in the notification drawer, a Settings menu with more visual information, and a Camera app that has been "cleaned up a bit". Bohn stated that he didnt notice any significant battery improvements despite the Doze power-saving feature in Nougat. He also wrote extensively about the fact that, even though Nougat is "great", "it’s a shame it will take so long for anybody to see it", writing about the lack of updates to most Android devices, and that "unless you have a Nexus, it could be a few months, it could be a year [sic], before it becomes available on your phone".[52]
+
+Chris Velazco of Engadget also praised the new, bundled app notifications, writing that prior Android versions notifications "just sort of sit there" until interaction, but Nougat "does a much better job of bundling them by app and letting you get things done". He highlighted the ability to expand a bundled Gmail notification to see subjects and senders of individual messages. Velazco stated that split-screen multitasking was a "big deal", but he also encountered non-compatible apps. Visual elements in the Settings app, quick toggles in the notification dropdown, and new language and emoji support were also positive highlights in the review. Velazco did note a battery improvement from the Doze power-saving feature, stating his "Nexus 6P seemed to gain about an hour or two of standby battery life". He also wrote that installing and launching apps might be "a little faster than usual" thanks to Nougats new app compiler, and he hoped game developers would utilize the new Vulkan API for some "seriously good-looking mobile gaming"
+    </string>
+
+    <string name="oreo">"Android 8" redirects here. For the Dragon Ball character, see List of Dragon Ball characters § Red Ribbon Army.
+Android Oreo
+A version of the Android operating system
+Android Oreo 8.1 logo.svg
+Android Oreo 8.1 screenshot.png
+Android 8.1 home screen with Pixel Launcher
+Developer	Google
+General
+availability	August 21, 2017; 3 years ago[1]
+Latest release	8.1.0_r83[2] / December 7, 2020; 34 days ago
+Kernel type	Monolithic Kernel (Linux Kernel)
+Preceded by	Android 7.1.2 "Nougat"
+Succeeded by	Android 9.0 "Pie"
+Official website	www.android.com/versions/oreo-8-0/ Edit this at Wikidata
+Support status
+Supported [3]
+Android Oreo (codenamed Android O during development) is the eighth major release and the 15th version of the Android mobile operating system. It was first released as an alpha quality developer preview in March 2017 and released to the public on August 21, 2017.
+
+It contains a number of major features, including notification grouping, picture-in-picture support for video, performance improvements, and battery usage optimization, and support for autofillers, Bluetooth 5, system-level integration with VoIP apps, wide color gamuts, and Wi-Fi Aware. Android Oreo also introduces two major platform features: Android Go – a software distribution of the operating system for low-end devices – and support for implementing a hardware abstraction layer.
+
+As of October 2020, 16.41% of Android devices run Oreo, with 5.98% on Android 8.0 (API 26) and 10.43% using Android 8.1 (API 27). Android 8.1 is behind Android 10, by now the third still popular version.
+
+    History
+
+Android Oreo 8.0 logo
+Android Oreo was internally codenamed "Oatmeal Cookie."[5] On March 21, 2017, Google released the first developer preview of Android "O",[6][7][8] available for the Nexus 5X, Nexus 6P, Nexus Player, Pixel C, and both Pixel smartphones.[9] The second, considered beta quality, was released on May 17, 2017.[10] The third developer preview was released on June 8, 2017 and offered a finalized version of the API.[11] DP3 finalized the releases API to API level 26,[11] changed the camera UI, reverted the Wi-Fi and cellular connectivity levels in the status bar back to Wi-Fi being on the left, added themed notifications, added a battery animation in Settings: Battery, a new icon and darker background for the Clock app, and a teardrop icon shape for apps.[12]
+
+On July 24, 2017, a fourth developer preview was released which included the final system behaviors and the latest bug fixes and optimizations.[13] Android "O" was officially released on August 21, 2017 under the name "Oreo". Its lawn statue was unveiled at a promotional event across from Chelsea Market in New York City—a building which formerly housed a Nabisco factory where Oreo cookies were first produced. Factory images were made available for compatible Pixel and Nexus devices later that day.[14][15] The Sony Xperia XZ1 and Sony Xperia XZ1 Compact were the first devices available with Oreo pre-installed.[16]
+
+Android 8.1 was released in December 2017 for Pixel and Nexus devices, which features minor bug fixes and user interface changes
+
+    User experience
+Notifications can be snoozed, and batched into topic-based groups known as "channels".[19][20] The Major Ongoing feature orders the alerts by priority, pinning the most important application to the top slot.[21] Android Oreo contains integrated support for picture-in-picture modes (supported in the YouTube app for YouTube Premium subscribers).[22][23][24][25] The "Settings" app features a new design which has been reduced in size, with a white theme and deeper categorization of different settings,[26] [27] while its ringtone, alarm and notification sound settings now contain an option for adding custom sounds to the list.[28][29]
+
+The Android 8.1 update supports the display of battery percentages for connected Bluetooth devices, makes the notification shade slightly translucent, and dims the on-screen navigation keys in order to reduce the possibility of burn-in.
+
+    Platform
+Android Oreo adds support for Neighborhood Aware Networking (NAN) for Wi-Fi based on Wi-Fi Aware,[30] Bluetooth 5,[31] wide color gamuts in apps,[32] an API for autofillers, multiprocess and Google Browsing support for WebViews, an API to allow system-level integration for VoIP apps, and launching activities on remote displays.[6] Android Runtime (ART) features performance improvements.[6] Android Oreo contains additional limits on apps background activities in order to improve battery life.[33] Apps can specify "adaptive icons" for differently-shaped containers specified by themes, such as circles, squares, and squircles.[34]
+
+Android Oreo adds native support for Advanced Audio Coding, aptX, aptX HD and LDAC Bluetooth codecs.[35] Android Oreo supports new emoji that were included in the Unicode 10 standard. A new emoji font was also introduced, which notably redesigns its face figures to use a traditional circular shape, as opposed to the "blob" design that was introduced on KitKat.[36][37]
+
+The underlying architecture of Android was revised so that low-level, vendor-specific code for supporting a devices hardware can be separated from the Android OS framework using a hardware abstraction layer known as the "vendor interface". Vendor interfaces must be made forward compatible with future versions of Android. This new architecture, called Project Treble,[38] allows the quicker development and deployment of Android updates for devices, as vendors would only need to make the necessary modifications to their bundled software.[39][40] All devices shipping with Oreo must support a vendor interface, but this feature is optional for devices being updated to Oreo from an earlier version.[41] The "seamless updates" system introduced in Android 7.0 was also modified to download update files directly to the system partition, rather than requiring them to be downloaded to the user partition first. This reduces storage space requirements for system updates.[42]
+
+Android Oreo introduces a new automatic repair system known as "Rescue Party"; if the operating system detects that core system components are persistently crashing during startup, it will automatically perform a series of escalating repair steps. If all automatic repair steps are exhausted, the device will reboot into recovery mode and offer to perform a factory reset.[43][44]
+
+The Android 8.1 update also introduces a neural network API, which is designed to "[provide] apps with hardware acceleration for on-device machine learning operations." This API is designed for use with machine learning platforms such as TensorFlow Lite, and specialized co-processors such as the Pixel Visual Core (featured in Googles Pixel 2 smartphones, but dormant until 8.1 is installed), but it also provides a CPU fallback mode
+
+    Android Go
+Main article: Android Go
+A tailored distribution for low-end devices known as Android Go was unveiled for Oreo; it is intended for devices with 1 GB of RAM or less. This mode has platform optimizations designed to reduce mobile data usage (including enabling Data Saver mode by default), and a special suite of Google Mobile Services designed to be less resource- and bandwidth-intensive. The Google Play Store would also highlight lightweight apps suited for these devices.[47][48] The operating systems interface is also modified, with the quick settings panel providing greater prominence to information regarding the battery, mobile data limit, and available storage, the recent apps menu using a modified layout and being limited to four apps (in order to reduce RAM consumption), and an API for allowing mobile carriers to implement data tracking and top-ups within the Android settings menu.[31] Google Play Services was also modularized to reduce its memory footprint.[31]
+
+Android Go was made available to OEMs for Android 8.1.
+
+    Security
+Android Oreo re-brands automatic scanning of Google Play Store and sideloaded apps as "Google Play Protect", and gives the feature, as well as Find My Device (formerly Android Device Manager) higher prominence in the Security menu of the Settings app. As opposed to a single, system-wide setting for enabling the installation of apps from sources outside of the Google Play Store, this function is now implemented as a permission that can be granted to individual apps (i.e. clients for third-party app repositories such as Amazon Appstore and F-Droid). A verified boot now includes a "Rollback Protection" feature, which enforces a restriction on rolling back the device to a previous version of Android, aimed at preventing a potential thief from bypassing security measures by installing a previous version of the operating system that doesnt have them in place.
+
+    </string>
+
+    <string name="pie">Android Pie (codenamed Android P during development) is the ninth major release and the 16th version of the Android mobile operating system. It was first released as a developer preview on March 7, 2018, and was released publicly on August 6, 2018.
+
+As of September 2020, 26.06% of Android devices run Pie (API 28), making it the second-most used version of Android
+
+    History
+Android Pie, then referred to as "Android P", was first announced by Google on March 7, 2018,[4] and the first developer preview was released on the same day.[5] The second preview, considered beta quality, was released on May 8, 2018.[6] The third preview, called Beta 2, was released on June 6, 2018.[7] The fourth preview, called Beta 3, was released on July 2, 2018.[8] The final beta of Android P was released on July 25, 2018.[9]
+
+On August 6, 2018, Google officially announced the final release of Android 9 under the title "Pie", with the update initially available for current Google Pixel devices, and releases for Android One devices and others to follow "later this year". The Essential Phone was the first third-party Android device to receive an update to Pie, notably coming day-and-date with its final release.[10][11] The Sony Xperia XZ3 was the first device with Android Pie pre-installed.
+
+    User experience
+Android Pie utilizes a refresh of Googles "material design" language, unofficially referred to as "Material Design 2.0". The revamp provides more variance in aesthetics, encouraging the creation of custom "themes" for the base guidelines and components rather than a standardized appearance. Bottom-aligned navigation bars are also more prominent. As applied to Android Pies interface, rounded corners (influenced by the proprietary Google theme used by in-house software implementing Material Design 2.0) are more prominent.[13] In addition, Pie contains official support for screen cutouts ("notches"), including APIs and system behaviors depending on their size and position. Android certification requirements restrict devices to two cutouts, which may only be along the top or bottom of the screen.[13]
+
+The most significant user interface change on Pie is a redesigned on-screen navigation bar. Unlike previous versions of Android, it only consists of a slim home button, and a back button rendered only when available. The bar utilizes gesture navigation: swiping up opens the "Overview" screen, a redesign of the existing recent apps menu. Swiping the handle to the right activates application switching. The gesture bar is used primarily on new devices such as the Pixel 3; existing devices may either use the previous navigation key setup or offer the ability to opt into gesture navigation.[14] As opposed to the previous recent apps menu, Overview utilizes a horizontal layout rather than vertical, and text may also be selected and copied from apps appearing there (although this uses OCR rather than the native text as to conserve resources). The Pixel Launcher exclusively supports the ability to access the app drawer and most recently used apps from the overview as well. However, this integration is proprietary, as there are no current plans to offer the necessary integration to third-party software due to security concerns.[13] In addition, when rotation lock is enabled, rotating the device causes a screen rotation button to appear on the navigation bar.[13]
+
+The notification area was redesigned, with the clock moved to the left, and the number of icons that may be displayed at once limited to four, in order to accommodate displays that may have "notch" cutouts in the center.[14] The drop-down panels attached to quick settings items have been removed; long-pressing a toggle directs users to the relevant settings screen. Notifications for chats can now be threaded, displaying previous messages within (complementing the existing inline reply functionality). If a particular type of notification is frequently dismissed, the user will now be offered to disable it.[13] The Do Not Disturb mode has been overhauled with a larger array of settings.[13]
+
+The power menu now contains a screenshot button (which itself now supports cropping an image after taking one), and an optional "lockdown" mode that disables biometric unlock methods.[14] The volume pop-up now only controls media volume, as well as the choice of sound, vibrate, or silent modes for notifications. Users are directed to the settings menu to change the volume of notifications.[14][15][16] A magnifier display has been added to text selection, and "smart linkify" offers access to relevant apps if particular types of text (such as phone numbers or addresses) are highlighted.
+
+    Platform
+Android Pie introduces a major change to power management, using algorithms to prioritize background activity by apps based on long-term usage patterns and predictions, dividing apps into "Active", "Working Set" (run often), "Frequent", "Rare", and "Never". Similar "adaptive brightness" settings are adjusted automatically based on detected lighting conditions. Both of these features were developed in collaboration with DeepMind.[13]
+
+The "PrecomputedText" API (also available as a compatibility library compatible with Android 4.0 and newer) can be used to perform text display processing in a background thread as opposed to a UI thread to improve performance.[13]
+
+The fingerprint authentication API has also been revamped to account for different types of biometric authentication experiences (including face scanning and in-screen fingerprint readers).[13]
+
+Android Runtime can now create compressed bytecode files, and profiler data can be uploaded to Google Play servers to be bundled with apps when downloaded by users with a similar device.[13]
+
+Apps targeting older Android API levels (beginning with Android 4.2) display a warning when launched. Google Play Store is now requiring all apps to target an API level released within the past year, and will also mandate 64-bit support in 2019.[13]
+
+Android Pie supports IEEE 802.11mc, including Wi-Fi Round Trip Time for location positioning.[13]
+
+The camera API now supports accessing multiple cameras at once.[13] Apps may no longer perform background audio or video recording unless they run a foreground service.[13] There is support for the High Efficiency Image File Format (subject to patent licensing and hardware support) and VP9 Profile 2.[13]
+
+DNS over TLS is supported under the name "Private DNS".[17]
+
+Android Go for Android Pie uses less storage than the previous release, and has enhancements to security and storage tracking.
+
+    </string>
+
+    <string name="notfound">Info not found!</string>
+</resources>
